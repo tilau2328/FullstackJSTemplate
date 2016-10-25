@@ -1,0 +1,14 @@
+{
+  "name": "JFT",
+  "version": "1.0.0",
+  "description": "Javascript Fullstack Template",
+  "main": "server.js",
+  "author": "André Stielau",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^15.2.0",
+    "hapi-mongoose-db-connector": "^2.1.3",
+    "inert": "^4.0.2",
+    "mongoose": "^4.6.5"
+  }
+}
